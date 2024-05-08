@@ -1,4 +1,4 @@
-# climbTheTower
+# Climb The Tower
 
 A precision platformer meant to challenge those who consider themselves skilled at platformers
 with a love for optimization and out doing themselves.
